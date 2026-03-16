@@ -47,6 +47,6 @@ Many small and medium‑sized businesses rely on manual spreadsheets, WhatsApp m
 -  Power BI sales dashboard
  ![image alt](
 
----
+## 🔒 Data Privacy
+All data in this repo is synthetic and not from real customers or transactions.
 
-## 🧠 Workflow
