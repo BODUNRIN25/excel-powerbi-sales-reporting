@@ -38,10 +38,14 @@ Many small and medium‑sized businesses rely on manual spreadsheets, WhatsApp m
 ---
 
 ## 📸 Screenshots 
-- docs/Invoice_Sample — Sample generated invoice  
-- `docs/sales_table.png` — Sales entry table  
-- `docs/payment_table.png` — Payment tracking sheet  
-- `docs/powerbi_dashboard.png` — Power BI sales dashboard  
+-  Sample generated invoice  
+ ![image alt](https://github.com/BODUNRIN25/excel-powerbi-sales-reporting/blob/580423a08f79d2d9fbe85ec711f7a2f0f4d2c043/docs/Invoice%20Template%20Screenshot.jpg)
+-  Sales entry table
+ ![image alt](https://github.com/BODUNRIN25/excel-powerbi-sales-reporting/blob/580423a08f79d2d9fbe85ec711f7a2f0f4d2c043/docs/Invoice%20Template%20Screenshot.jpg)  
+-  Payment tracking sheet
+ ![image alt](  
+-  Power BI sales dashboard
+ ![image alt](  
 
 ---
 
